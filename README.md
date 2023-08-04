@@ -1,5 +1,4 @@
-### Hi there 👋
-<img src="https://github.com/anjaekk/algorithm/assets/74139727/72565969-7f22-40e8-bbcc-40c05deb6749" width="30" height="30"/>
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="23" height="23"/>
 
 
 <!--
