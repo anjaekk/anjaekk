@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img src="https://github.com/anjaekk/algorithm/assets/74139727/72565969-7f22-40e8-bbcc-40c05deb6749" width="30" height="30"/>
+
 
 <!--
 **anjaekk/anjaekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
